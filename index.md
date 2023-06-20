@@ -1,7 +1,7 @@
 # Indy Mech Meetup 2023
 
 ## Date
-TBD 2023
+July 8th, 2023
 
 ## Location
 Outreach
