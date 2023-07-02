@@ -1,8 +1,8 @@
 # Indy Mech Meetup 2023
 
-## Date
+## Date & Time
 
-July 8th, 2023
+July 8th, 2023, at 1pm
 
 ## Location
 
