@@ -6,15 +6,20 @@ July 8th, 2023
 
 ## Location
 
-Outreach
+### Outreach
+
 342 Massachusetts Ave #300, Indianapolis, IN 46204
+
+### Parking
+
+<iframe src="https://www.google.com/maps/embed?pb=!1m16!1m12!1m3!1d3066.5475208939906!2d-86.153453!3d39.7722665!2m3!1f0!2f0!3f0!3m2!1i1024!2i768!4f13.1!2m1!1sparking!5e0!3m2!1sen!2sus!4v1688316536714!5m2!1sen!2sus" width="600" height="450" style="border:0;" allowfullscreen="" loading="lazy" referrerpolicy="no-referrer-when-downgrade"></iframe>
 
 ## Schedule
 
-Free time (talk, look around, admire, mingle)
-Solder, lube, etc. demonstration
-Free time (talk, look around, admire, mingle)
-Giveaway
+- Free time (talk, look around, admire, mingle)
+- Solder, lube, etc. demonstration
+- Free time (talk, look around, admire, mingle)
+- Giveaway
 
 ## Sponsors
 
