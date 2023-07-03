@@ -27,6 +27,9 @@ July 8th, 2023, at 1pm
 ## Sponsors
 
 <div style="background: white; display: flex; flex-wrap: wrap; align-items: center; gap: 24px 48px;">
+    <a href="https://www.outreach.io/" target="_blank" noopener noreferrer>
+        <img src="./assets/Outreach-Vertical_Lockup-Color.png" alt="Outreach logo" title="Outreach" style="max-width: 200px;"/>
+    </a>
     <a href='https://www.cherryamericas.com/' target="_blank" noopener noreferrer>
         <img src="./assets/cherry.png" alt="Cherry logo" title="Cherry" style="max-width: 200px;"/>
     </a>
