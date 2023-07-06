@@ -12,14 +12,14 @@ July 8th, 2023, at 1pm
 
 ### Parking
 
-<iframe src="https://www.google.com/maps/embed?pb=!1m16!1m12!1m3!1d3066.5475208939906!2d-86.153453!3d39.7722665!2m3!1f0!2f0!3f0!3m2!1i1024!2i768!4f13.1!2m1!1sparking!5e0!3m2!1sen!2sus!4v1688316536714!5m2!1sen!2sus" width="600" height="450" style="border:0; width: 100%;" allowfullscreen="" loading="lazy" referrerpolicy="no-referrer-when-downgrade"></iframe>
+<iframe src="https://www.google.com/maps/embed?pb=!1m16!1m12!1m3!1d3066.5475208939906!2d-86.153453!3d39.7722665!2m3!1f0!2f0!3f0!3m2!1i1024!2i768!4f13.1!2m1!1sparking!5e0!3m2!1sen!2sus!4v1688316536714!5m2!1sen!2sus" width="600" height="450" style="border:0;" allowfullscreen="" loading="lazy" referrerpolicy="no-referrer-when-downgrade"></iframe>
 
 ## Schedule
 
-- Free time (talk, look around, admire, mingle)
-- Solder, lube, etc. demonstration
-- Free time (talk, look around, admire, mingle)
-- Giveaway
+- **1PM - 2PM:** Registration, mingle
+- **2PM - 2:30PM:** Lube and soldering demo
+- **2:30PM - 3PM:** More mingling time
+- **3PM - 4PM:** Giveaway and cleanup
 
 ## RSVP
 <a href="https://docs.google.com/forms/d/e/1FAIpQLSelK-sTB4lcGf91e8OXnkzzijyDbKKELmBa2Kc5mkn_O-WkAA/viewform" >Click here to RSVP</a>
