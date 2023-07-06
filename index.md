@@ -22,7 +22,10 @@ July 8th, 2023, at 1pm
 - **3PM - 4PM:** Giveaway and cleanup
 
 ## RSVP
-<a href="https://docs.google.com/forms/d/e/1FAIpQLSelK-sTB4lcGf91e8OXnkzzijyDbKKELmBa2Kc5mkn_O-WkAA/viewform" >Click here to RSVP</a>
+<a href="https://docs.google.com/forms/d/e/1FAIpQLSelK-sTB4lcGf91e8OXnkzzijyDbKKELmBa2Kc5mkn_O-WkAA/viewform">Click here to RSVP</a>
+
+## Pre-registration
+Save yourself five minutes at the door and [click here to pre-register](https://forms.gle/FoatFyy3edtBfJzEA). Time is money and money is more keebs!
 
 ## Sponsors
 
